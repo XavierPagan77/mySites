@@ -7,7 +7,7 @@ body{
     background-color: #e4f9f5;
     width:100%;
     position: relative;
-    padding-top: 100px;
+    padding-top: 14%;
 }
 .middle-container{
     padding: 30px;
@@ -34,27 +34,30 @@ h3{
 
 p{
     margin: 0;
-    
-   
+     
 }
 
 .yo{
-    position: relative;
-  
-    top:15%;
-}
+    position: absolute;
+    right:47%;
+    bottom:68%;
+ }
 
 .top-cloud{
    position: absolute;
-   right: 320px;
-   top:50px;
+   right: 25%;
+   top:1%;
+   padding-top: 2%;
 }
 .bottom-cloud{
     position: absolute;
-    left: 300px;
-    bottom: 250px;
+    left:25%;
+    bottom: 40%;
 }
 
+.mont{
+
+}
 .pro{
     text-decoration:underline;
 }
