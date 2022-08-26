@@ -2,11 +2,12 @@ body{
     margin: 0;
     text-align: center;
     font-family:'Merriwather',sans-serif;
+    background-color: rgb(213, 250, 238);
 }
 .top-container{
     position: relative;
     padding-top: 5%;
-    background-color: rgb(213, 250, 238);
+   
     height: 100%;
 }
 .middle-container{
@@ -30,7 +31,7 @@ h2{
     font-family: 'Montserrat', sans-serif;
     font-size: 2rem;
     font-weight: normal;
-    padding-bottom: 10px;
+    padding-bottom: 0px;
 }
    
 
@@ -40,30 +41,31 @@ h3{
 
 p{
     margin: 0;
-     
 }
 
 .yo{    
     position: absolute;
     right:46%;
-    bottom:78%;
+    bottom:71%;
  }
 
 .top-cloud{
    position: absolute;
-   right: 20%;
-   top:3%;
+   right: 25%;
+   top:5%;
    padding-top: 1%;
 }
 .bottom-cloud{
     position: absolute;
-    left:20%;
-    bottom: 40%;
+    left:25%;
+    bottom: 30%;
 }
 
-.mont{
+.mount{
+   position:relative;
+   bottom:20%;
 
 }
 .pro{
-    text-decoration:underline;
+    text-decoration: underline;
 }
