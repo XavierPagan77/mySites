@@ -25,11 +25,12 @@ body{
 
 h1{
    margin:80px auto 0 auto; 
-   line-height: do;
+   line-height: 1.5;
    font-family:'Sacramento',cursive;
    font-size: 4.625rem;
    color: rgb(73, 120, 27);
-}
+   font-weight: bolder;
+  }
 
 h2{    
     color: #66BFBF;
@@ -78,14 +79,14 @@ hr{
 
 .top-cloud{
    position: absolute;
-   right: 22%;
+   right: 18%;
    top:3%;
   
 }
 .bottom-cloud{
     position: absolute;
-    left:18%;
-    bottom: 33%;
+    left:16%;
+    bottom: 30%;
 }
 
 .mount{
